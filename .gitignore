@@ -4,3 +4,4 @@ idea/workspace.xml
 __pyache__
 media
 db.sqlite3
+magazine/__pycache__/
